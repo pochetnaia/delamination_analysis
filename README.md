@@ -2,7 +2,7 @@
 
 This repository contains code, datasets, and results associated with an M1 Internship conducted at the Bellaiche Lab under the supervision of Adrien Leroy, Floris Bosveld and Yohanns Bellaiche. 
 
-The primary focus of repository is to provide tools to measure microchaete divisions timings using Fiji Macro and analyze delamination rate in the developing notum.
+The primary focus of repository is to provide tools to register microchaete divisions timings using Fiji Macro and analyze delamination rate in the developing notum.
 
 ## Structure of the Repository
 
